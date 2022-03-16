@@ -12,7 +12,7 @@ I'm a Machine, in learning .
 - 👾 I'm currently interested in Raspberry Pi || Technical writting .
 - 🌭 My dream: `while(sleeping){money++;}`
 - ⚡ Fun fact: The word computer “bug” was inspired by a real bug. It was founded by Grace Hopper in 1947 || Git pull your life together
-- 🤖 Hobbies: Skating boarding and Video games
+- 🤖 Hobbies: Skateboarding and Video games
 
 My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
 
