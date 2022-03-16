@@ -9,9 +9,10 @@ I'm a Machine, in learning .
 - 🔭 Research-wise, I'm mainly working on topics related to exploring the capability of machines to develop intelligent behavior upon what they have learned, like meta-learning and continual learning.
 - 🚀 I'm learning to build machine learning softwares and systems.
 - 🧐 I'm also learning React, Flutter ,Python and Go.
-- 👾 I'm currently interested in Raspberry Pi.
+- 👾 I'm currently interested in Raspberry Pi || Technical writting .
 - 🌭 My dream: `while(sleeping){money++;}`
 - ⚡ Fun fact: The word computer “bug” was inspired by a real bug. It was founded by Grace Hopper in 1947 || Git pull your life together
+- 🤖 Hobbies: Skating boarding and Video games
 
 My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
 
