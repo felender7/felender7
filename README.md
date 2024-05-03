@@ -1,6 +1,6 @@
 ### Hey there 👋 , you found me.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tlangelani-felender-hlungwani-a54949194/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/tlangelani-felender-hlungwani-a54949194/](https://www.linkedin.com/in/tf-a54949194/))
 [![Email](https://img.shields.io/badge/-Email-E8453C?style=flat-square&logo=Gmail&logoColor=white)](mailto:felender7@gmail.com)
 
 
